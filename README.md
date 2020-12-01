@@ -1,5 +1,8 @@
 # Rubiks-Cube-Solver
 
+This program was done for an Algorithm Design class. It was and still is my favorite class for my Computer Science 
+graduate studies.
+
 Problem 6-3. Rubik’s Cube
 In this problem, you will develop algorithms for solving the 2 × 2 × 2 Rubik’s Cube, known as the
 Pocket Cube. Call a configuration of the cube “k levels from the solved position” if it can reach
